@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="nub">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libraries/nub" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libraries/nub" recursive="false" />
+  </library>
+</component>
