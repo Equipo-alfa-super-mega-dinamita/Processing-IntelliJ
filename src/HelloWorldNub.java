@@ -67,6 +67,7 @@ public class HelloWorldNub extends PApplet {
         // calls render() on all scene nodes applying all their transformations
         scene.render();
         drawRay();
+        //scene.drawAxes();
     }
 
     public void drawRay() {
